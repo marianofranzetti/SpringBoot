@@ -3,18 +3,18 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>org.mfran.springcloud.msvc</groupId>
+		<groupId>org.aguzman.springcloud.msvc</groupId>
 		<artifactId>curso-kubernetes</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<groupId>org.mfranzett.springcloud.msvc.cursos</groupId>
+	<groupId>org.aguzman.springcloud.msvc.cursos</groupId>
 	<artifactId>msvc-cursos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>msvc-cursos</name>
-	<description>project for Spring Boot</description>
+	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>19</java.version>
-		<spring-cloud.version>2022.0.1</spring-cloud.version>
+		<java.version>17</java.version>
+		<spring-cloud.version>2021.0.1</spring-cloud.version>
 	</properties>
 	<dependencies>
 		<dependency>
